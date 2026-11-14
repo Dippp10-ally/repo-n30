@@ -6,4 +6,4 @@ Document supported input formats
 
 ## Updated
 
-2026-11-13 17:32:00 UTC
+2026-11-14 16:23:24 UTC
